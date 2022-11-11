@@ -1,0 +1,16 @@
+{
+    "translation": {
+      "hello":"Hello",
+      "photos": "Photos",
+      "listing": "Add photos to your listing",
+      "language": "Language",
+      "upload":"Upload photos",
+      "name":"Name",
+      "age":"Age",
+      "gender":"Gender",
+      "const": "Constellation",
+      "home":"Hometown",
+      "school":"School",
+      "occ":"Occupation"
+    }
+  }

@@ -1,0 +1,15 @@
+{
+    "translation": {
+      "photos":"Photos",
+      "listing": "Ajouter des photos à votre annonce",
+      "language":"Langue",
+      "upload":"Télécharger des photos",
+      "name":"Nom",
+      "age":"âge",
+      "gender":"le genre",
+      "const": "Constellation",
+      "home":"Ville natale",
+      "school":"École",
+      "occ":"Profession"
+    }
+  }
